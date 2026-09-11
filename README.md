@@ -21,5 +21,5 @@ Por CDN com etiqueta (cache longo, imutável por etiqueta):
 
 ## Histórico
 
-- Este repositório chamava-se `favicons` até 2026-09-11 e tinha os arquivos da Menezes Niebuhr na raiz. O GitHub redireciona os endereços antigos, e os arquivos da raiz continuam lá até o último sistema apontar para `menezes-niebuhr/`.
+- Este repositório chamava-se `favicons` até 2026-09-11 e tinha os arquivos da Menezes Niebuhr na raiz. O GitHub redireciona os endereços antigos do repositório, mas não de pasta: as cópias da raiz foram apagadas em 2026-09-11, depois que o último sistema da Menezes Niebuhr (RECRE, versão 47) passou a apontar para `menezes-niebuhr/`. Versões publicadas anteriores a essa migração perderam favicon e logo.
 - Os arquivos da Dalla Valle vieram do repositório `dalla-valle-marca` em 2026-09-11; o painel de obras apontou para cá na versão 10, no mesmo dia, e aquele repositório foi apagado.
