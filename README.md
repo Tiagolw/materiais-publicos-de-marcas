@@ -22,4 +22,4 @@ Por CDN com etiqueta (cache longo, imutável por etiqueta):
 ## Histórico
 
 - Este repositório chamava-se `favicons` até 2026-09-11 e tinha os arquivos da Menezes Niebuhr na raiz. O GitHub redireciona os endereços antigos, e os arquivos da raiz continuam lá até o último sistema apontar para `menezes-niebuhr/`.
-- Os arquivos da Dalla Valle vieram do repositório `dalla-valle-marca` em 2026-09-11; aquele repositório fica de pé até o painel de obras apontar para cá.
+- Os arquivos da Dalla Valle vieram do repositório `dalla-valle-marca` em 2026-09-11; o painel de obras apontou para cá na versão 10, no mesmo dia, e aquele repositório foi apagado.
